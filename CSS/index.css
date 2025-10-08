@@ -1,0 +1,27 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.input-container{
+    margin-bottom: 20px;
+}
+.input-container label{
+    display: inline-block;
+    width: 150px;
+}
+
+.input-container input{
+    display: inline-block;
+    height: 20px;
+}
+button{
+    background: #1e3799;
+    color: #fff;
+    width: 150px;
+    height: 30px;
+}
+button:hover{
+    background: #4a69bd;
+}
+.input-error{
+    border: 2px solid #e55039;
+}
