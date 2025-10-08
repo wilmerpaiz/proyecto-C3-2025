@@ -42,4 +42,3 @@ function calcularImc(){
 |---------|-------------|--------|
 | peso | Peso de la persona | 0
 | estatura | Estatura de la persona | 0 |
-
