@@ -39,6 +39,6 @@ function calcularImc(){
 #### Tablas
 
 | Variable | Descripción | Valor inicial |
-|-----------------|----------------|
+|---------|-------------|--------|
 | peso | Peso de la persona | 0
 | estatura | Estatura de la persona | 0 |
